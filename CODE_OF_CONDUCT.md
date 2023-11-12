@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# Prelevated Insider Code of Conduct
 
 ## Our Pledge
 
